@@ -1,0 +1,727 @@
+#EXTM3U
+
+#EXTINF:-1,ABC EAST
+http://iptv-area-51.tv:2095/live/philly/philly/3353.ts
+
+#EXTINF:-1, P3RV TV Channel
+http://iptv-area-51.tv:2095/live/philly/philly/8.ts
+
+#EXTINF:-1,FOX EAST
+http://iptv-area-51.tv:2095/live/philly/philly/3090.ts
+
+#EXTINF:-1,UK | FOX
+http://iptv-area-51.tv:2095/live/philly/philly/1943.ts
+
+#EXTINF:-1,CBS EAST
+http://iptv-area-51.tv:2095/live/philly/philly/1518.ts
+
+#EXTINF:-1,NBC 4 (Washington)
+http://iptv-area-51.tv:2095/live/philly/philly/10656.ts
+
+#EXTINF:-1,NBC EAST
+http://iptv-area-51.tv:2095/live/philly/philly/3241.ts
+
+#EXTINF:-1,CW NETWORK (US)
+http://iptv-area-51.tv:2095/live/philly/philly/2265.ts
+
+#EXTINF:-1,PBS Kids
+http://iptv-area-51.tv:2095/live/philly/philly/2446.ts
+
+#EXTINF:-1,AMC (US)
+http://iptv-area-51.tv:2095/live/philly/philly/3318.ts
+
+#EXTINF:-1,UK | AMC
+http://iptv-area-51.tv:2095/live/philly/philly/2963.ts
+
+#EXTINF:-1,Comedy Central East (opt-2)
+http://iptv-area-51.tv:2095/live/philly/philly/8278.ts
+
+#EXTINF:-1,Comedy Central (EAST) (D)
+http://iptv-area-51.tv:2095/live/philly/philly/6062.ts
+
+#EXTINF:-1,Comedy Central (US) (WEST) (D)
+http://iptv-area-51.tv:2095/live/philly/philly/4530.ts
+
+#EXTINF:-1,UK | COMEDY CENTRAL
+http://iptv-area-51.tv:2095/live/philly/philly/1931.ts
+
+#EXTINF:-1,VELOCITY (US)
+http://iptv-area-51.tv:2095/live/philly/philly/3971.ts
+
+#EXTINF:-1,TLC (D)
+http://iptv-area-51.tv:2095/live/philly/philly/19.ts
+
+#EXTINF:-1,FX East (D)
+http://iptv-area-51.tv:2095/live/philly/philly/4088.ts
+
+#EXTINF:-1,FX West (D)
+http://iptv-area-51.tv:2095/live/philly/philly/4899.ts
+
+#EXTINF:-1,FXX East (D)
+http://iptv-area-51.tv:2095/live/philly/philly/38.ts
+
+#EXTINF:-1,FXX West (D)
+http://iptv-area-51.tv:2095/live/philly/philly/4904.ts
+
+#EXTINF:-1,FXM (D)
+http://iptv-area-51.tv:2095/live/philly/philly/4510.ts
+
+#EXTINF:-1,FREEFORM (EAST) (D)
+http://iptv-area-51.tv:2095/live/philly/philly/6075.ts
+
+#EXTINF:-1,FREEFORM (WEST) (D)
+http://iptv-area-51.tv:2095/live/philly/philly/4485.ts
+
+#EXTINF:-1,INVESTIGATION DISCOVERY (D)
+http://iptv-area-51.tv:2095/live/philly/philly/4370.ts
+
+#EXTINF:-1,OWN (D)
+http://iptv-area-51.tv:2095/live/philly/philly/3108.ts
+
+#EXTINF:-1,BET HER (D)
+http://iptv-area-51.tv:2095/live/philly/philly/9226.ts
+
+#EXTINF:-1,BET (US) (EAST) (D)
+http://iptv-area-51.tv:2095/live/philly/philly/6066.ts
+
+#EXTINF:-1,BET (US) (WEST) (D)
+http://iptv-area-51.tv:2095/live/philly/philly/4525.ts
+
+#EXTINF:-1,MTV (EAST) (D)
+http://iptv-area-51.tv:2095/live/philly/philly/6068.ts
+
+#EXTINF:-1,VH1 (US) (EAST) (D)
+http://iptv-area-51.tv:2095/live/philly/philly/6064.ts
+
+#EXTINF:-1,CMT – Country Music Television (EAST) (D)
+http://iptv-area-51.tv:2095/live/philly/philly/6070.ts
+
+#EXTINF:-1,CMT – Country Music Television (WEST) (D)
+http://iptv-area-51.tv:2095/live/philly/philly/4570.ts
+
+#EXTINF:-1,Comet TV (D)
+http://iptv-area-51.tv:2095/live/philly/philly/4587.ts
+
+#EXTINF:-1,SYFY (US)
+http://iptv-area-51.tv:2095/live/philly/philly/4092.ts
+
+#EXTINF:-1,SUNDANCE TV
+http://iptv-area-51.tv:2095/live/philly/philly/4436.ts
+
+#EXTINF:-1,TruTV
+http://iptv-area-51.tv:2095/live/philly/philly/3997.ts
+
+#EXTINF:-1,TNT
+http://iptv-area-51.tv:2095/live/philly/philly/29.ts
+
+#EXTINF:-1,USA NETWORK
+http://iptv-area-51.tv:2095/live/philly/philly/3892.ts
+
+#EXTINF:-1,A&E
+http://iptv-area-51.tv:2095/live/philly/philly/1872.ts
+
+#EXTINF:-1,BRAVO
+http://iptv-area-51.tv:2095/live/philly/philly/22.ts
+
+#EXTINF:-1,TV ONE
+http://iptv-area-51.tv:2095/live/philly/philly/3158.ts
+
+#EXTINF:-1,TV Land (D)
+http://iptv-area-51.tv:2095/live/philly/philly/3146.ts
+
+#EXTINF:-1,WE TV (US)
+http://iptv-area-51.tv:2095/live/philly/philly/21.ts
+
+#EXTINF:-1,TCM
+http://iptv-area-51.tv:2095/live/philly/philly/24.ts
+
+#EXTINF:-1,TBS https://www.tvonlinestreams.com
+http://iptv-area-51.tv:2095/live/philly/philly/1878.ts
+
+#EXTINF:-1,History
+http://iptv-area-51.tv:2095/live/philly/philly/5943.ts
+
+#EXTINF:-1,UFC TV
+http://iptv-area-51.tv:2095/live/philly/philly/5900.ts
+
+#EXTINF:-1,MLB NETWORK (D)
+http://iptv-area-51.tv:2095/live/philly/philly/5986.ts
+
+#EXTINF:-1,NFL NETWORK
+http://iptv-area-51.tv:2095/live/philly/philly/103.ts
+
+#EXTINF:-1,NHL NETWORK
+http://iptv-area-51.tv:2095/live/philly/philly/3979.ts
+
+#EXTINF:-1,FOX SPORTS 1 (D)
+http://iptv-area-51.tv:2095/live/philly/philly/99.ts
+
+#EXTINF:-1,FOX SPORTS 2 (D)
+http://iptv-area-51.tv:2095/live/philly/philly/4099.ts
+
+#EXTINF:-1,WWE NETWORK
+http://iptv-area-51.tv:2095/live/philly/philly/4246.ts
+
+#EXTINF:-1,GOLF CHANNEL (D)
+http://iptv-area-51.tv:2095/live/philly/philly/4163.ts
+
+#EXTINF:-1,TENNIS CHANNEL
+http://iptv-area-51.tv:2095/live/philly/philly/4077.ts
+
+#EXTINF:-1,ESPN
+http://iptv-area-51.tv:2095/live/philly/philly/3883.ts
+
+#EXTINF:-1,ESPN 2
+http://iptv-area-51.tv:2095/live/philly/philly/8064.ts
+
+#EXTINF:-1,ESPN 3 (D)
+http://iptv-area-51.tv:2095/live/philly/philly/7029.ts
+
+#EXTINF:-1,ESPN U
+http://iptv-area-51.tv:2095/live/philly/philly/3885.ts
+
+#EXTINF:-1,ESPN NEWS
+http://iptv-area-51.tv:2095/live/philly/philly/7570.ts
+
+#EXTINF:-1,SEC NETWORK
+http://iptv-area-51.tv:2095/live/philly/philly/4344.ts
+
+#EXTINF:-1,LONGHORN NETWORK (D)
+http://iptv-area-51.tv:2095/live/philly/philly/4144.ts
+
+#EXTINF:-1,MSG (Only during live events)
+http://iptv-area-51.tv:2095/live/philly/philly/6033.ts
+
+#EXTINF:-1,BIG TEN NETWORK
+http://iptv-area-51.tv:2095/live/philly/philly/3832.ts
+
+#EXTINF:-1,NBCSN Bay Area (D)
+http://iptv-area-51.tv:2095/live/philly/philly/6290.ts
+
+#EXTINF:-1,NBCSN
+http://iptv-area-51.tv:2095/live/philly/philly/3409.ts
+
+#EXTINF:-1,NBCSN Chicago (Only Active During Live Events)
+http://iptv-area-51.tv:2095/live/philly/philly/6289.ts
+
+#EXTINF:-1,PAC 12 WASHINGTON
+http://iptv-area-51.tv:2095/live/philly/philly/1893.ts
+
+#EXTINF:-1,PAC 12 OREGON
+http://iptv-area-51.tv:2095/live/philly/philly/1898.ts
+
+#EXTINF:-1,PAC 12 NATIONAL
+http://iptv-area-51.tv:2095/live/philly/philly/1897.ts
+
+#EXTINF:-1,PAC 12 ARIZONA
+http://iptv-area-51.tv:2095/live/philly/philly/7179.ts
+
+#EXTINF:-1,PAC 12 MOUNTAIN
+http://iptv-area-51.tv:2095/live/philly/philly/1892.ts
+
+#EXTINF:-1,PAC 12 LOS ANGELES
+http://iptv-area-51.tv:2095/live/philly/philly/1896.ts
+
+#EXTINF:-1,PAC 12 BAY AREA
+http://iptv-area-51.tv:2095/live/philly/philly/1895.ts
+
+#EXTINF:-1,BT SPORTS 1
+http://iptv-area-51.tv:2095/live/philly/philly/3987.ts
+
+#EXTINF:-1,BT SPORTS 3
+http://iptv-area-51.tv:2095/live/philly/philly/4213.ts
+
+#EXTINF:-1,UK | SKY SPORTS F1
+http://iptv-area-51.tv:2095/live/philly/philly/3986.ts
+
+#EXTINF:-1,MAV TV
+http://iptv-area-51.tv:2095/live/philly/philly/110.ts
+
+#EXTINF:-1,Eurosport 1
+http://iptv-area-51.tv:2095/live/philly/philly/4695.ts
+
+#EXTINF:-1,Eurosport 2
+http://iptv-area-51.tv:2095/live/philly/philly/4696.ts
+
+#EXTINF:-1,NBCSN Philly (Only Active During Live Events)
+http://iptv-area-51.tv:2095/live/philly/philly/6317.ts
+
+#EXTINF:-1,NBCSN Washington (Only Active During Live Events)
+http://iptv-area-51.tv:2095/live/philly/philly/6318.ts
+
+#EXTINF:-1,FOX SPORTS ARIZONA
+http://iptv-area-51.tv:2095/live/philly/philly/8062.ts
+
+#EXTINF:-1,FOX SPORTS COLLEGE ATLANTIC
+http://iptv-area-51.tv:2095/live/philly/philly/8060.ts
+
+#EXTINF:-1,FOX SPORTS COLLEGE CENTRAL
+http://iptv-area-51.tv:2095/live/philly/philly/8059.ts
+
+#EXTINF:-1,FOX SPORTS COLLEGE PACIFIC
+http://iptv-area-51.tv:2095/live/philly/philly/8058.ts
+
+#EXTINF:-1,FOX SPORTS DETROIT
+http://iptv-area-51.tv:2095/live/philly/philly/8057.ts
+
+#EXTINF:-1,FOX SPORTS MID WEST
+http://iptv-area-51.tv:2095/live/philly/philly/8055.ts
+
+#EXTINF:-1,FOX SPORTS NORTH
+http://iptv-area-51.tv:2095/live/philly/philly/8054.ts
+
+#EXTINF:-1,FOX SPORTS OHIO
+http://iptv-area-51.tv:2095/live/philly/philly/8053.ts
+
+#EXTINF:-1,FOX SPORTS PRIME TICKET
+http://iptv-area-51.tv:2095/live/philly/philly/8052.ts
+
+#EXTINF:-1,FOX SPORTS SAN DIEGO
+http://iptv-area-51.tv:2095/live/philly/philly/8051.ts
+
+#EXTINF:-1,FOX SPORTS SOUTH
+http://iptv-area-51.tv:2095/live/philly/philly/8050.ts
+
+#EXTINF:-1,FOX SPORTS SOUTH EAST
+http://iptv-area-51.tv:2095/live/philly/philly/8049.ts
+
+#EXTINF:-1,FOX SPORTS SOUTH WEST
+http://iptv-area-51.tv:2095/live/philly/philly/8048.ts
+
+#EXTINF:-1,FOX SPORTS TENNESSEE
+http://iptv-area-51.tv:2095/live/philly/philly/8047.ts
+
+#EXTINF:-1,FOX SPORTS WEST
+http://iptv-area-51.tv:2095/live/philly/philly/8046.ts
+
+#EXTINF:-1,FOX SPORTS WISCONSIN
+http://iptv-area-51.tv:2095/live/philly/philly/8045.ts
+
+#EXTINF:-1,Fox Sports Florida
+http://iptv-area-51.tv:2095/live/philly/philly/6323.ts
+
+#EXTINF:-1,FOX Sports Sun
+http://iptv-area-51.tv:2095/live/philly/philly/6325.ts
+
+#EXTINF:-1,HBO East
+http://iptv-area-51.tv:2095/live/philly/philly/231.ts
+
+#EXTINF:-1,HBO 2 East (US)
+http://iptv-area-51.tv:2095/live/philly/philly/232.ts
+
+#EXTINF:-1,HBO ZONE (US)
+http://iptv-area-51.tv:2095/live/philly/philly/238.ts
+
+#EXTINF:-1,SHOWTIME
+http://iptv-area-51.tv:2095/live/philly/philly/4220.ts
+
+#EXTINF:-1,SHOWTIME 2
+http://iptv-area-51.tv:2095/live/philly/philly/4221.ts
+
+#EXTINF:-1,Cinemax
+http://iptv-area-51.tv:2095/live/philly/philly/4347.ts
+
+#EXTINF:-1,UK | GOOD FOOD
+http://iptv-area-51.tv:2095/live/philly/philly/9375.ts
+
+#EXTINF:-1,UK | FOOD NETWORK
+http://iptv-area-51.tv:2095/live/philly/philly/9376.ts
+
+#EXTINF:-1,UK | TCM
+http://iptv-area-51.tv:2095/live/philly/philly/9507.ts
+
+#EXTINF:-1,UK | SKY CINEMA COMEDY
+http://iptv-area-51.tv:2095/live/philly/philly/3085.ts
+
+#EXTINF:-1,UK | Sky CINEMA Drama
+http://iptv-area-51.tv:2095/live/philly/philly/270.ts
+
+#EXTINF:-1,UK | SKY CINEMA OSCARS
+http://iptv-area-51.tv:2095/live/philly/philly/3746.ts
+
+#EXTINF:-1,UK | SKY CINEMA SCI-FI & HORROR
+http://iptv-area-51.tv:2095/live/philly/philly/4224.ts
+
+#EXTINF:-1,UK | SKY CINEMA FAMILY
+http://iptv-area-51.tv:2095/live/philly/philly/4228.ts
+
+#EXTINF:-1,UK | SKY CINEMA PREMIER
+http://iptv-area-51.tv:2095/live/philly/philly/4225.ts
+
+#EXTINF:-1,UK | SKY CINEMA SELECT
+http://iptv-area-51.tv:2095/live/philly/philly/4223.ts
+
+#EXTINF:-1,STARZ EAST
+http://iptv-area-51.tv:2095/live/philly/philly/4218.ts
+
+#EXTINF:-1,STARZ ENCORE
+http://iptv-area-51.tv:2095/live/philly/philly/4234.ts
+
+#EXTINF:-1,Hallmark Movies
+http://iptv-area-51.tv:2095/live/philly/philly/278.ts
+
+#EXTINF:-1,ANIMAL PLANET (D)
+http://iptv-area-51.tv:2095/live/philly/philly/195.ts
+
+#EXTINF:-1,American Heroes Channel (US) (D)
+http://iptv-area-51.tv:2095/live/philly/philly/206.ts
+
+#EXTINF:-1,Oxygen (US)
+http://iptv-area-51.tv:2095/live/philly/philly/20.ts
+
+#EXTINF:-1,LIFETIME MOVIE NETWORK (US)
+http://iptv-area-51.tv:2095/live/philly/philly/8.ts
+
+#EXTINF:-1,LIFETIME
+http://iptv-area-51.tv:2095/live/philly/philly/7.ts
+
+#EXTINF:-1,COOKING CHANNEL
+http://iptv-area-51.tv:2095/live/philly/philly/4502.ts
+
+#EXTINF:-1,Food Network (US)
+http://iptv-area-51.tv:2095/live/philly/philly/1870.ts
+
+#EXTINF:-1,E!
+http://iptv-area-51.tv:2095/live/philly/philly/11.ts
+
+#EXTINF:-1,DIY NETWORK (US)
+http://iptv-area-51.tv:2095/live/philly/philly/13.ts
+
+#EXTINF:-1,FYI
+http://iptv-area-51.tv:2095/live/philly/philly/4612.ts
+
+#EXTINF:-1,Destination America (D)
+http://iptv-area-51.tv:2095/live/philly/philly/6088.ts
+
+#EXTINF:-1,Discovery
+http://iptv-area-51.tv:2095/live/philly/philly/8097.ts
+
+#EXTINF:-1,Discovery Channel (D)
+http://iptv-area-51.tv:2095/live/philly/philly/193.ts
+
+#EXTINF:-1,DISCOVERY SCIENCE CHANNEL (D)
+http://iptv-area-51.tv:2095/live/philly/philly/4160.ts
+
+#EXTINF:-1,UK | DISCOVERY CHANNEL
+http://iptv-area-51.tv:2095/live/philly/philly/3363.ts
+
+#EXTINF:-1,UK | DISCOVERY TURBO
+http://iptv-area-51.tv:2095/live/philly/philly/201.ts
+
+#EXTINF:-1,Discovery Life (D)
+http://iptv-area-51.tv:2095/live/philly/philly/4473.ts
+
+#EXTINF:-1,CRIME and INVESTIGATION
+http://iptv-area-51.tv:2095/live/philly/philly/3655.ts
+
+#EXTINF:-1,National Geographic Channel (East) (D)
+http://iptv-area-51.tv:2095/live/philly/philly/4090.ts
+
+#EXTINF:-1,National Geographic Channel (West) (D)
+http://iptv-area-51.tv:2095/live/philly/philly/4907.ts
+
+#EXTINF:-1,NAT GEO WILD (D)
+http://iptv-area-51.tv:2095/live/philly/philly/196.ts
+
+#EXTINF:-1,UK | NAT GEO WILD
+http://iptv-area-51.tv:2095/live/philly/philly/3364.ts
+
+#EXTINF:-1,UK | CBS ACTION
+http://iptv-area-51.tv:2095/live/philly/philly/3471.ts
+
+#EXTINF:-1,UK | CBS DRAMA
+http://iptv-area-51.tv:2095/live/philly/philly/3472.ts
+
+#EXTINF:-1,UK | CBS REALITY
+http://iptv-area-51.tv:2095/live/philly/philly/3081.ts
+
+#EXTINF:-1,BBC America
+http://iptv-area-51.tv:2095/live/philly/philly/3264.ts
+
+#EXTINF:-1,UK | SKY LIVING
+http://iptv-area-51.tv:2095/live/philly/philly/3342.ts
+
+#EXTINF:-1,UK | HISTORY CHANNEL
+http://iptv-area-51.tv:2095/live/philly/philly/2553.ts
+
+#EXTINF:-1,UK | HEART TV HD
+http://iptv-area-51.tv:2095/live/philly/philly/1913.ts
+
+#EXTINF:-1,VICELAND
+http://iptv-area-51.tv:2095/live/philly/philly/3970.ts
+
+#EXTINF:-1,EL REY
+http://iptv-area-51.tv:2095/live/philly/philly/4241.ts
+
+#EXTINF:-1,Travel Channel
+http://iptv-area-51.tv:2095/live/philly/philly/4274.ts
+
+#EXTINF:-1,The Weather Channel (D)
+http://iptv-area-51.tv:2095/live/philly/philly/4276.ts
+
+#EXTINF:-1,Hallmark
+http://iptv-area-51.tv:2095/live/philly/philly/4332.ts
+
+#EXTINF:-1,GSN
+http://iptv-area-51.tv:2095/live/philly/philly/4576.ts
+
+#EXTINF:-1,UK | BBC ONE (D)
+http://iptv-area-51.tv:2095/live/philly/philly/3569.ts
+
+#EXTINF:-1,CARTOON NETWORK (US)
+http://iptv-area-51.tv:2095/live/philly/philly/1519.ts
+
+#EXTINF:-1,UK | CARTOON NETWORK
+http://iptv-area-51.tv:2095/live/philly/philly/4377.ts
+
+#EXTINF:-1,DISNEY CHANNEL (US) (D)
+http://iptv-area-51.tv:2095/live/philly/philly/3875.ts
+
+#EXTINF:-1,UK | DISNEY CHANNEL
+http://iptv-area-51.tv:2095/live/philly/philly/3647.ts
+
+#EXTINF:-1,DISNEY JR (US) (D)
+http://iptv-area-51.tv:2095/live/philly/philly/3876.ts
+
+#EXTINF:-1,UK | DISNEY JR
+http://iptv-area-51.tv:2095/live/philly/philly/1218.ts
+
+#EXTINF:-1,DISNEY XD (US) (D)
+http://iptv-area-51.tv:2095/live/philly/philly/3878.ts
+
+#EXTINF:-1,UK | DISNEY XD
+http://iptv-area-51.tv:2095/live/philly/philly/218.ts
+
+#EXTINF:-1,NICKELODEN
+http://iptv-area-51.tv:2095/live/philly/philly/4091.ts
+
+#EXTINF:-1,NICK Jr
+http://iptv-area-51.tv:2095/live/philly/philly/3726.ts
+
+#EXTINF:-1,UK | NICK JR
+http://iptv-area-51.tv:2095/live/philly/philly/2574.ts
+
+#EXTINF:-1,QVC (US)
+http://iptv-area-51.tv:2095/live/philly/philly/1922.ts
+
+#EXTINF:-1,QVC 2 (US)
+http://iptv-area-51.tv:2095/live/philly/philly/1552.ts
+
+#EXTINF:-1,QVC PLUS
+http://iptv-area-51.tv:2095/live/philly/philly/4302.ts
+
+#EXTINF:-1,UK | CHANNEL 4
+http://iptv-area-51.tv:2095/live/philly/philly/3991.ts
+
+#EXTINF:-1,DogTV
+http://iptv-area-51.tv:2095/live/philly/philly/3995.ts
+
+#EXTINF:-1,CBS 13 News (Stockton) (D)
+http://iptv-area-51.tv:2095/live/philly/philly/8021.ts
+
+#EXTINF:-1,CBS 2 News (New York) (D)
+http://iptv-area-51.tv:2095/live/philly/philly/8020.ts
+
+#EXTINF:-1,Fox Business
+http://iptv-area-51.tv:2095/live/philly/philly/8544.ts
+
+#EXTINF:-1,FOX NEWS CHANNEL
+http://iptv-area-51.tv:2095/live/philly/philly/1661.ts
+
+#EXTINF:-1,CNN
+http://iptv-area-51.tv:2095/live/philly/philly/5848.ts
+
+#EXTINF:-1,CBSN (D)
+http://iptv-area-51.tv:2095/live/philly/philly/3.ts
+
+#EXTINF:-1,C-SPAN 1 (D)
+http://iptv-area-51.tv:2095/live/philly/philly/4291.ts
+
+#EXTINF:-1,C-SPAN 2 (D)
+http://iptv-area-51.tv:2095/live/philly/philly/4292.ts
+
+#EXTINF:-1,C-SPAN 3 (D)
+http://iptv-area-51.tv:2095/live/philly/philly/2182.ts
+
+#EXTINF:-1,UK | SKY NEWS (D)
+http://iptv-area-51.tv:2095/live/philly/philly/3343.ts
+
+#EXTINF:-1,MSNBC
+http://iptv-area-51.tv:2095/live/philly/philly/340.ts
+
+#EXTINF:-1,WGN News (D)
+http://iptv-area-51.tv:2095/live/philly/philly/4217.ts
+
+#EXTINF:-1,BLOOMBERG (US) (D)
+http://iptv-area-51.tv:2095/live/philly/philly/329.ts
+
+#EXTINF:-1,NBC NEWS (US) (D)
+http://iptv-area-51.tv:2095/live/philly/philly/3278.ts
+
+#EXTINF:-1,CNBC
+http://iptv-area-51.tv:2095/live/philly/philly/4087.ts
+
+#EXTINF:-1,RT NEWS (D)
+http://iptv-area-51.tv:2095/live/philly/philly/7133.ts
+
+#EXTINF:-1,RT DOCUMENTARY (D)
+http://iptv-area-51.tv:2095/live/philly/philly/200.ts
+
+#EXTINF:-1,RT America (D)
+http://iptv-area-51.tv:2095/live/philly/philly/7136.ts
+
+#EXTINF:-1,NEWS 12 WESTCHESTER (US)
+http://iptv-area-51.tv:2095/live/philly/philly/2528.ts
+
+#EXTINF:-1,NEWS 12 LONG ISLAND (US)
+http://iptv-area-51.tv:2095/live/philly/philly/2529.ts
+
+#EXTINF:-1,NEWS 12 THE BRONX (US)
+http://iptv-area-51.tv:2095/live/philly/philly/2188.ts
+
+#EXTINF:-1,NEWS 12 NEW JERSEY (US)
+http://iptv-area-51.tv:2095/live/philly/philly/2187.ts
+
+#EXTINF:-1,NEWS 12 HUDSON VALLEY (US)
+http://iptv-area-51.tv:2095/live/philly/philly/2186.ts
+
+#EXTINF:-1,NEWS 12 CONNECTICUT (US)
+http://iptv-area-51.tv:2095/live/philly/philly/2185.ts
+
+#EXTINF:-1,NEWS 12 BROOKLYN (US)
+http://iptv-area-51.tv:2095/live/philly/philly/2184.ts
+
+#EXTINF:-1,WOI Local 5 News Des Moines
+http://iptv-area-51.tv:2095/live/philly/philly/3194.ts
+
+#EXTINF:-1,KRGV 5 NEWS (US)
+http://iptv-area-51.tv:2095/live/philly/philly/3694.ts
+
+#EXTINF:-1,KIRO NEWS CHANNEL 7
+http://iptv-area-51.tv:2095/live/philly/philly/3509.ts
+
+#EXTINF:-1,KCAU 9 News Sioux City
+http://iptv-area-51.tv:2095/live/philly/philly/3196.ts
+
+#EXTINF:-1,WSOC 9 NEWS (US)
+http://iptv-area-51.tv:2095/live/philly/philly/2617.ts
+
+#EXTINF:-1,Music Choice – Contemporary Christian
+http://iptv-area-51.tv:2095/live/philly/philly/3478.ts
+
+#EXTINF:-1,UK | ESKA PARTY HD
+http://iptv-area-51.tv:2095/live/philly/philly/3477.ts
+
+#EXTINF:-1,MUSIC VIDEOS 90s
+http://iptv-area-51.tv:2095/live/philly/philly/3499.ts
+
+#EXTINF:-1,MUSIC VIDEOS ALTERNATIVE
+http://iptv-area-51.tv:2095/live/philly/philly/3483.ts
+
+#EXTINF:-1,MUSIC VIDEOS BRIT HITS
+http://iptv-area-51.tv:2095/live/philly/philly/3482.ts
+
+#EXTINF:-1,MUSIC VIDEOS DANCE EDM
+http://iptv-area-51.tv:2095/live/philly/philly/3481.ts
+
+#EXTINF:-1,MUSIC VIDEOS HIP HOP and R&B
+http://iptv-area-51.tv:2095/live/philly/philly/3480.ts
+
+#EXTINF:-1,MUSIC VIDEOS HIT LIST
+http://iptv-area-51.tv:2095/live/philly/philly/3503.ts
+
+#EXTINF:-1,MUSIC VIDEOS INDIE
+http://iptv-area-51.tv:2095/live/philly/philly/3502.ts
+
+#EXTINF:-1,MUSIC VIDEOS KIDS ONLY
+http://iptv-area-51.tv:2095/live/philly/philly/3486.ts
+
+#EXTINF:-1,MUSIC VIDEOS LATINO POP
+http://iptv-area-51.tv:2095/live/philly/philly/3488.ts
+
+#EXTINF:-1,MUSIC VIDEOS MC PLAY
+http://iptv-area-51.tv:2095/live/philly/philly/3484.ts
+
+#EXTINF:-1,MUSIC VIDEOS MEXICANA
+http://iptv-area-51.tv:2095/live/philly/philly/3496.ts
+
+#EXTINF:-1,MUSIC VIDEOS POP and COUNTRY
+http://iptv-area-51.tv:2095/live/philly/philly/3501.ts
+
+#EXTINF:-1,MUSIC VIDEOS POP HITS
+http://iptv-area-51.tv:2095/live/philly/philly/3500.ts
+
+#EXTINF:-1,MUSIC VIDEOS R&B SOUL
+http://iptv-area-51.tv:2095/live/philly/philly/3494.ts
+
+#EXTINF:-1,MUSIC VIDEOS RAP
+http://iptv-area-51.tv:2095/live/philly/philly/3493.ts
+
+#EXTINF:-1,MUSIC VIDEOS RAP 2K
+http://iptv-area-51.tv:2095/live/philly/philly/3492.ts
+
+#EXTINF:-1,MUSIC VIDEOS ROCK
+http://iptv-area-51.tv:2095/live/philly/philly/3491.ts
+
+#EXTINF:-1,MUSIC VIDEOS TEEN BEATS
+http://iptv-area-51.tv:2095/live/philly/philly/3490.ts
+
+#EXTINF:-1,MUSIC VIDEOS THROWBACK JAMZ
+http://iptv-area-51.tv:2095/live/philly/philly/3498.ts
+
+#EXTINF:-1,MUSIC VIDEOS TODAYS COUNTRY
+http://iptv-area-51.tv:2095/live/philly/philly/3489.ts
+
+#EXTINF:-1,MUSIC VIDEOS TODDLER TUNES
+http://iptv-area-51.tv:2095/live/philly/philly/3485.ts
+
+#EXTINF:-1,MUSIC VIDEOS TROPICALES
+http://iptv-area-51.tv:2095/live/philly/philly/3487.ts
+
+#EXTINF:-1,UK | VIRGIN MUSIC TV
+http://iptv-area-51.tv:2095/live/philly/philly/3504.ts
+
+#EXTINF:-1,ELECTRO CITY (D)
+http://iptv-area-51.tv:2095/live/philly/philly/4254.ts
+
+#EXTINF:-1,LOVE SONGS (D)
+http://iptv-area-51.tv:2095/live/philly/philly/4255.ts
+
+#EXTINF:-1,ALTERNATIVE (D)
+http://iptv-area-51.tv:2095/live/philly/philly/4259.ts
+
+#EXTINF:-1,DOGGYSTYLE (D)
+http://iptv-area-51.tv:2095/live/philly/philly/4260.ts
+
+#EXTINF:-1,EUPHORIA (D)
+http://iptv-area-51.tv:2095/live/philly/philly/4257.ts
+
+#EXTINF:-1,SUBDUSTRIAL (D)
+http://iptv-area-51.tv:2095/live/philly/philly/4258.ts
+
+#EXTINF:-1,THE STRIP (D)
+http://iptv-area-51.tv:2095/live/philly/philly/4256.ts
+
+#EXTINF:-1,Adult Swim – Dubstep
+http://iptv-area-51.tv:2095/live/philly/philly/8523.ts
+
+#EXTINF:-1,REGGAE (D)
+http://iptv-area-51.tv:2095/live/philly/philly/4391.ts
+
+#EXTINF:-1,Y2K (D)
+http://iptv-area-51.tv:2095/live/philly/philly/4285.ts
+
+#EXTINF:-1,70s (D)
+http://iptv-area-51.tv:2095/live/philly/philly/4288.ts
+
+#EXTINF:-1,80s (D)
+http://iptv-area-51.tv:2095/live/philly/philly/4287.ts
+
+#EXTINF:-1,90s (D)
+http://iptv-area-51.tv:2095/live/philly/philly/4286.ts
+
+#EXTINF:-1,WGN News
+http://iptv-area-51.tv:2095/live/philly/philly/4500.ts
+
+#EXTINF:-1,Fox 10 News
+http://iptv-area-51.tv:2095/live/philly/philly/4594.ts
